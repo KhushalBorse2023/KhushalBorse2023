@@ -1,5 +1,5 @@
-[![MasterHead]()](https://www.linkedin.com/in/khushal-borse-8b865b210/)
-![logo](https://tenor.com/view/coding-gif-24625099)
+[![MasterHead](https://github.com/KhushalBorse2023/KhushalBorse2023/blob/main/github-header-image.png)](https://www.linkedin.com/in/khushal-borse-8b865b210/)
+
 
 
 <h1 align="center">Hi 👋, I'm Khushal Subhash Borse</h1>
