@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Spring , Springboot**
 
-- 💬 Ask me about **React, Machine Learning , Servlet , Jsp , Jdbc **
+- 💬 Ask me about **React, Machine Learning , Servlet , Jsp , Jdbc**
 
 - 📫 How to reach me **khushalborse343@gmail.com**
 
